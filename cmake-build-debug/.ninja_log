@@ -1,0 +1,5 @@
+# ninja log v5
+0	1081	1701220846920758010	CMakeFiles/yolov7_cxx.dir/src/yolov7_cxx/yolov7_cxx.cpp.o	631a5ce305c0c55f
+1081	1104	1701220846944757997	libyolov7_cxx.a	6fa53b97748c4e0e
+0	2175	1701220848012757406	CMakeFiles/yolov7_demo.dir/demo/main.cpp.o	6dda36a036a4853b
+2175	2740	1701220848572757097	yolov7_demo	3b0fa601361ba46b

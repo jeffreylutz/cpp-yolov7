@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "YOLOV7_CXX",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov7_cxx::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov7_cxx-Debug-70444b4cc4de0e0c6d46.json",
+					"name" : "yolov7_cxx",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov7_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov7_demo-Debug-84ed26f5b3b565c5daa3.json",
+					"name" : "yolov7_demo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jeff/code/yolo/yolov7-cxx/cmake-build-debug",
+		"source" : "/home/jeff/code/yolo/yolov7-cxx"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
