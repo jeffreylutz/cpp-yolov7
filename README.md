@@ -1,12 +1,12 @@
 # Inroduction
-This repository contains a library to use [YOLOv7](https://github.com/WongKinYiu/yolov7) object detection mode in C++. It also contains a demo program to run YOLOv7 on images or video streams (like webcams).
+This repository contains a library to use [YOLOv7](https://github.com/jeffreylutz/cpp-yolov7) object detection mode in C++. It also contains a demo program to run YOLOv7 on images or video streams (like webcams).
 
 # Build
 The library needs `ONNX Runtime` as a dependency. You can find pre-compiled packages or build from source [here](https://github.com/microsoft/onnxruntime). The demo program needs `OpenCV` which you can install using your package manager or other sources. If you want to run the model on CUDA, then you will need to link to CUDA's library directory. If you want to build the demo program, you can follow these steps:
 
 ``` bash
-git clone git@github.com:ShahriarRezghi/yolov7-cxx.git
-cd yolov7-cxx
+git clone git@github.com:jeffreylutz/cpp-yolov7.git
+cd cpp-yolov7
 mkdir build
 cd build
 cmake \
