@@ -1,1 +1,1 @@
-# yolov7-c-
+# cpp-yolov7
